@@ -69,4 +69,14 @@ right: 0;
     margin: auto auto !important;
 }
 
+div#palleon-icon-panel {
+    position: absolute;
+    bottom: 0px;
+    margin-top: auto;
+    height: 189px;
+    padding-top: 0px !important;
+}    
+    
 }
+
+
